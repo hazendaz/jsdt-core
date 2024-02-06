@@ -35,3 +35,4 @@ nb-configuration.xml
 *.ipr
 *.iws
 .tycho-consumer-pom.xml
+.mvn/wrapper/maven-wrapper.jar
